@@ -1,0 +1,82 @@
+/* src/styles.css */
+
+/* App Container */
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+/* Form Container and Styling */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px; /* Adds vertical spacing between each form field */
+  margin-bottom: 20px;
+}
+
+/* Form Labels and Input Fields */
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+/* Buttons Container */
+.button-container {
+  display: flex;
+  gap: 10px; /* Adds horizontal spacing between buttons */
+  justify-content: center;
+}
+
+/* Buttons Styling */
+button {
+  padding: 8px 16px;
+}
+
+/* Heading */
+h3 {
+  margin-top: 20px;
+}
+
+/* Token Display Container */
+.token-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px 0;
+}
+
+/* Token Row Styling */
+.token-row {
+  display: flex;
+  gap: 10px; /* Space between tokens in the row */
+  margin-bottom: 10px; /* Vertical gap between rows */
+}
+
+/* Individual Token Styling */
+.token {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  font-weight: bold;
+  color: white;
+  border-radius: 5px;
+}
+
+/* Color Variants */
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
