@@ -1,3 +1,11 @@
+Sample Output:
+![token_generator_output](https://github.com/user-attachments/assets/4a676110-396b-492d-a696-7f70ffb7cb41)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
